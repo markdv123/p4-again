@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "../../../../../../unit2/projects/game-log"
+		},
+		{
+			"path": "../../../../../../unit3/projects/p3"
+		},
+		{
+			"path": "../../../../p4"
+		},
+		{
+			"path": "../../.."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Hackathon"
+	}
+}
